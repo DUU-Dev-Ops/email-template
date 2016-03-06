@@ -12,8 +12,7 @@ table { border-collapse: collapse !important; mso-table-lspace: 0pt; mso-table-r
 @media only screen and (max-width: 480px){
 .centerClass{ margin:0 auto !important; }
 .imgClass{ width:100% !important; height:auto; }
-.wrapper{ width:320px; padding: 0 !important; }
-.header{ width:320px; padding: 0 !important; background-image: url(http://placehold.it/320x400) !important; }
+.wrapper{ width:320px; padding: 0 !important; } 
 .container{ width:300px;  padding: 0 !important; }
 .mobile{ width:300px; display:block; padding: 0 !important; text-align:center !important;}
 .mobile50{ width:300px; padding: 0 !important; text-align:center; }
